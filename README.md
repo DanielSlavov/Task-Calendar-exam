@@ -22,6 +22,3 @@ SoftUni Calendar HTML5 Application – JS Apps Exam You are assigned to design a
 • Authorization checks – anonymous site visitors (without login) should be able to see the welcome, login and register screen. All other screens should be accessible only after login. The "menu-home.html" should be displayed if the user has been logged in. An attempt for anonymous access to these screens should redirect the user to the welcome screen. If the user is not logged, display the "menu-login.html". 4 score 
 • *Bonus: well-structured code – high-quality JavaScript code and coding practices, use of template engines, routing libraries, promises, functionality split into modules, etc. 10 score
 • Total – 80 (90 with bonus) pts.
-
-
-
